@@ -28,10 +28,5 @@
             "JustLess": "src"
         },
         "classmap" : ["Module.php"]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        }
     }
 }
